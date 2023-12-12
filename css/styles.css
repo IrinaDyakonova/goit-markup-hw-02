@@ -1,5 +1,25 @@
 body {
   font-family: 'Roboto', sans-serif;
-  color: #2e2f42;
+  color: #434455;
   background-color: #fff;
+}
+
+.logo-web {
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.logo-studio {
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 }
