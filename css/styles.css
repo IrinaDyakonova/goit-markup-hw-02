@@ -36,7 +36,21 @@ body {
   color: #2e2f42;
 }
 
-.header-nav-a li a:hover,
-.header-nav-a li a:focus {
+.header-nav-a {
+  color: #2e2f42;
+}
+
+.header-nav-a:hover,
+.header-nav-a:focus {
   color: #404bbf;
+}
+
+.header-address {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  color: #434455;
 }
