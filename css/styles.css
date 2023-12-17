@@ -35,3 +35,8 @@ body {
   letter-spacing: 0.32px;
   color: #2e2f42;
 }
+
+.header-nav-a li a:hover,
+.header-nav-a li a:focus {
+  color: #404bbf;
+}
