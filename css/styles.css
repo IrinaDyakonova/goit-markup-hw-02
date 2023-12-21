@@ -86,4 +86,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.64px;
   color: #fff;
+  cursor: pointer;
+}
+
+.setting-section-one-button:hover,
+.setting-section-one-button:focus {
+  background-color: #404bbf;
 }
