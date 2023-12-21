@@ -62,14 +62,14 @@ body {
   color: #434455;
 }
 
-.setting-section1 {
-  background-color: 2e2F42;
+.setting-section-one {
+  background-color: #2e2f42;
 }
 
-.setting-section1-title {
+.setting-section-one-title {
   color: #fff;
   text-align: center;
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
@@ -77,6 +77,13 @@ body {
   letter-spacing: 1.12px;
 }
 
-.setting-section1-button {
+.setting-section-one-button {
   background-color: #4d5ae5;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  color: #fff;
 }
